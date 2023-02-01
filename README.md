@@ -7,9 +7,7 @@ Data Science with Python: Beginner to Advance course has prepared two research i
 ***
 You are almost about to end this course with some successful learnings. 
 Now, it's time to step forward and practice if we can solve some research problems of our own. 
-***Read the following instructions carefully and you can write your code in the main.py file of this
-repository.*** It's not necessary to 
-solve the exampled problem, you can also relate the same with your own research (if any).
+***Read the following instructions carefully and solve your problem with python programming.*** A good sample of the report submission is added to your google classroom from the previous batch. 
 ***
 
 ## 1. **Group 1:**
